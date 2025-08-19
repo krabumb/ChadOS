@@ -1,4 +1,4 @@
-# ChadOS
+# ChadOS Peeter
 
 **ChadOS** is a passion project operating system built by **Krabumb** and **Gouuu**, with the goal of understanding what a computer truly is, and unleashing the raw power it holds.  
 
