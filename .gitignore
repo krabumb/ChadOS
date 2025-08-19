@@ -1,0 +1,6 @@
+/build/
+/compiler/*
+/isodir/
+/ChadOS.iso
+
+!/compiler/install.sh
